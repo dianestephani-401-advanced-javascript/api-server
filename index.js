@@ -1,2 +1,7 @@
+'use strict';
+
+require('dotenv').config();
 const server = require('./lib/server');
-const env = require('env');
+
+
+server.start(process.env.PORT);
