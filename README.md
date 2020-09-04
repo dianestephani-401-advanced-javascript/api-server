@@ -1,6 +1,6 @@
 # Lab 06 - 07: api-server
 
-### Diane Stephani, Ben Hill, Joe Pennock
+### Diane Stephani, Ben Hill, Joe Pennock, Chris Bortel
 
 ### Links 
 - https://github.com/typicode/json-server#getting-started
