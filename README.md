@@ -13,4 +13,4 @@
 - "json-server --watch ./data/db.json"
 
 ### Whiteboard
-![Whiteboard](https://github.com/dianestephani-401-advanced-javascript/api-server/blob/master/Lab07Whiteboard.png)
+![Whiteboard](https://github.com/dianestephani-401-advanced-javascript/api-server/blob/master/assets/Lab07Whiteboard.png)
